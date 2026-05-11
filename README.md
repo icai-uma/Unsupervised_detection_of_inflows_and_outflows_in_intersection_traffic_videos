@@ -1,12 +1,17 @@
 # Unsupervised detection of inflows and outflows in intersection traffic videos
 
-Repository for the code supporting of the paper titled **Unsupervised detection of inflows and outflows in intersection traffic videos** (Accepted for publication in the _Integrated Computer-Aided Engineering Journal_, DOI pending)
+Repository for the code supporting of the paper titled [**Unsupervised detection of inflows and outflows in intersection traffic videos**](https://doi.org/10.1177/10692509261442319)
 
 ## Citation
 Please use the following citation if you use our data or code:
 ````
-@article{
-PUBLICATION DATA PENDING
+@article{ariadna2026icae,
+  title={Unsupervised detection of inflows and outflows in intersection traffic videos},
+  author={Ariadna Jim\'enez-Partinen and Jos\'e D. Fern\'andez-Rodr\'iguez and Jes\'us Benito-Picazo and Miguel A. Molina-Cabello and Rafaela Ben\'itez-Rochel and Ezequiel L\'opez-Rubio},
+  journal={Integrated Computer-Aided Engineering},
+  doi={10.1177/106925092614423},
+  year={2026},
+  publisher={SAGE Publications}
 }
 ````
 
